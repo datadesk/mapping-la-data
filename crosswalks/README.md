@@ -2,6 +2,8 @@
 
 ## blocks.csv
 
+The assignment of Census blocks in the Los Angeles Times neighborhood mapping scheme
+
 | field             | description                                                                            |
 |-------------------|----------------------------------------------------------------------------------------|
 | acs_2012_geoid    | The block's unique identifier in the 2012 American Community Survey                    |
